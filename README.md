@@ -1,2 +1,2 @@
 # AIML
-All thing AIML
+All things AIML
